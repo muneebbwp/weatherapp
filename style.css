@@ -1,0 +1,55 @@
+/*  Jumbotron style */
+
+
+#page-title{
+    font-weight: bolder;
+    color: #0f3057;
+    text-align: center;
+}
+
+body {
+    /* background-color: #07689f; */
+    background-color: #1366b4;
+}
+
+.search-header {
+    font-weight: bolder;
+    color: #0f3057;
+    padding-top: 10px;
+}
+
+#search-section {
+    background-color: #5ba4e7;
+    border: #0f3057;
+    /* margin: 1px; */
+    padding-bottom: 10px;
+}
+
+#current {
+    background-color: aliceblue;
+    color: #0f3057;
+    border: #0f3057;
+    padding-bottom: 10px;
+    margin: 5px;
+    height: 250px;
+}
+#forecast{
+    background-color: #5ba4e7;
+    border: #0f3057;
+    margin: 5px;
+}
+
+#five-days {
+    /* margin: 5px; */
+    font-weight: bolder;
+    color: #0f3057;
+    padding: 10px;
+}
+.card-title{
+    font-size: 15px;
+}
+.bg-color {
+    background-color: #5ba4e7;
+    outline: #0f3057;
+    outline-width: 1px;
+}
